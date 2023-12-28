@@ -1,5 +1,5 @@
 # Test configs
-oauth.json
+oauth*.json
 output*.json
 playlist.json
 
