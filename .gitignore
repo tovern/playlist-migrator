@@ -2,6 +2,7 @@
 oauth*.json
 output*.json
 playlist.json
+.cache
 
 # Environments
 .env
